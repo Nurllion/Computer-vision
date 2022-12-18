@@ -1,5 +1,6 @@
 # Computer-vision
 Draw in the air
+#Team
 Nurlan Kulmurzayev 200103207
 # Description
 This project makes it possible to draw anything by moving your hands. We will use computer vision methods,more precisely, opencv for creating a project.
